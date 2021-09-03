@@ -20,7 +20,8 @@
         "url": "git+https://github.com/yesness/events.git"
     },
     "keywords": [
-        "netclass"
+        "events",
+        "ynevents"
     ],
     "author": "rcpooley",
     "license": "ISC",
